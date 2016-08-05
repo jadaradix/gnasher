@@ -1,0 +1,20 @@
+{
+  "name": "gnasher",
+  "version": "2.0.0",
+  "description": "Gnasher the Cacher (asynchronous caching abstraction).",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadaradix/gnasher"
+  },
+  "author": "James Garner <j@jada.io> (http://jada.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadaradix/gnasher/issues"
+  },
+  "homepage": "https://github.com/jadaradix/gnasher",
+  "dependencies": {
+  }
+}
